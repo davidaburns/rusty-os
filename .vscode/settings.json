@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.cargo.target": "x86_64_rust_os_target.json",
+    "rust-analyzer.checkOnSave.allTargets": false
+}
